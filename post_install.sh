@@ -1,6 +1,6 @@
 #!/bin/sh
 
-setenv ROOT /var/srv
+ROOT=/var/srv
 
 mkdir -p ${ROOT}
 
