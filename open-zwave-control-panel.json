@@ -7,7 +7,7 @@
     "gmake",
     "libmicrohttpd",
     "libudev-devd",
-    "security/ca_root_nss",
+    "security/ca_root_nss"
     ],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
   "fingerprints": {
