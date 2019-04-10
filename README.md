@@ -9,8 +9,8 @@ Artifact file(s) for [Open ZWave Control Panel](https://github.com/OpenZWave/ope
 
 **Download plugin and install**
 
-    wget -O /tmp/amazon-dash.json https://raw.githubusercontent.com/tprelog/iocage-amazon-dash/master/amazon-dash.json
-    sudo iocage fetch -P dhcp=on vnet=on bpf=yes -n /tmp/amazon-dash.json --branch 'master'
+    wget -O /tmp/open-zwave-control-panel.json https://raw.githubusercontent.com/jed-frey-freenas-plugins/iocage-plugin-open-zwave-control-panel/master/open-zwave-control-panel.json
+    sudo iocage fetch -P dhcp=on vnet=on bpf=yes -n /tmp/open-zwave-control-panel.json --branch 'master'
 
 ---
 
