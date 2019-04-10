@@ -3,15 +3,11 @@
   "release": "11.2-RELEASE",
   "artifact": "https://github.com/jed-frey-freenas-plugins/iocage-plugin-open-zwave-control-panel.git",
   "pkgs": [
-    "git",
     "gcc8",
     "gmake",
     "libmicrohttpd",
     "libudev-devd",
-    "shells/bash",
-    "lang/python36",
     "security/ca_root_nss",
-    "security/sudo"
     ],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
   "fingerprints": {
