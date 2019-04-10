@@ -3,6 +3,7 @@
   "release": "11.2-RELEASE",
   "artifact": "https://github.com/jed-frey-freenas-plugins/iocage-plugin-open-zwave-control-panel.git",
   "pkgs": [
+    "git",
     "gcc8",
     "gmake",
     "libmicrohttpd",
